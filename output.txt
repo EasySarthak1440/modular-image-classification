@@ -1,0 +1,25 @@
+(venv) PS C:\Users\hp\Desktop\interview\obviousai> python main.py
+Files already downloaded and verified
+Files already downloaded and verified
+Epoch [1/20] Train Acc: 0.5453 Val Acc: 0.6332 Val Loss: 1.0518
+Saved best model to best_model.pth
+Epoch [2/20] Train Acc: 0.6896 Val Acc: 0.6843 Val Loss: 0.9102
+Saved best model to best_model.pth
+Epoch [3/20] Train Acc: 0.7560 Val Acc: 0.6934 Val Loss: 0.8905
+Saved best model to best_model.pth
+Epoch [4/20] Train Acc: 0.8131 Val Acc: 0.7050 Val Loss: 0.9174
+Epoch [5/20] Train Acc: 0.8698 Val Acc: 0.6935 Val Loss: 1.0405
+Reduced LR to 0.0005
+Restored best model weights.
+Epoch 5 completed. Continue training? (y/n): y
+Epoch [6/20] Train Acc: 0.8415 Val Acc: 0.7081 Val Loss: 0.8870
+Saved best model to best_model.pth
+Epoch [7/20] Train Acc: 0.8790 Val Acc: 0.7085 Val Loss: 0.9611
+Epoch [8/20] Train Acc: 0.9163 Val Acc: 0.6996 Val Loss: 1.0584
+Reduced LR to 0.00025
+Restored best model weights.
+Epoch [9/20] Train Acc: 0.8953 Val Acc: 0.7123 Val Loss: 0.9389
+Epoch [10/20] Train Acc: 0.9169 Val Acc: 0.7077 Val Loss: 1.0269
+Reduced LR to 0.000125
+Restored best model weights.
+Early stopping triggered.
