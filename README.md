@@ -1,4 +1,3 @@
-Perfect! Let’s prepare a **professional one-page PDF README** with **execution steps, modular overview, and a visual workflow** so you can submit it directly. Here’s a ready-to-use version:
 
 ---
 
@@ -109,6 +108,4 @@ A modular and flexible image classification pipeline built with PyTorch, support
 
 ---
 
-I can also **generate a PDF version** directly from this content with proper formatting and workflow diagram, ready to submit.
 
-Do you want me to create the **PDF now**?
