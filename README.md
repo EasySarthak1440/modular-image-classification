@@ -103,7 +103,6 @@ A modular and flexible image classification pipeline built with PyTorch, support
 ## **5️⃣ Notes**
 
 * Fully GPU compatible (uses CUDA if available)
-* Easy to swap architectures or datasets
 * Modular design encourages code reuse and clarity
 
 ---
